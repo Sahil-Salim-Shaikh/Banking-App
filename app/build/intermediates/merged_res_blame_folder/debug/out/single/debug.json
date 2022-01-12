@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_list_item.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\layout\\user_list_item.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_person_24.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_person_24.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_person_24.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_person_24.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_user.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\user.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_account_balance_wallet_24.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_account_balance_wallet_24.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_person_24.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_transaction_history.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\layout\\activity_transaction_history.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\font_ubuntu.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\font\\ubuntu.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_account_balance_wallet_24.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_account_balance_wallet_24.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bnk.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\drawable-v24\\bnk.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_backgr.jpg.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\drawable-v24\\backgr.jpg"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_person_24.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_person_24.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_account_balance_wallet_24.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_account_balance_wallet_24.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\font_ubuntu_mono.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\font\\ubuntu_mono.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\font_averia_serif_libre_light.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\font\\averia_serif_libre_light.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_user.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\user.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_person_24.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_person_24.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_person_24.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_person_24.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_person_24.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_person_24.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_user.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\user.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_box.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\layout\\dialog_box.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_user.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\user.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_account_balance_wallet_24.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_account_balance_wallet_24.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_data.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\layout\\activity_user_data.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_account_balance_wallet_24.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_account_balance_wallet_24.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_user.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\user.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_account_balance_wallet_24.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_account_balance_wallet_24.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_user.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\user.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\font_ubuntu_light.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\font\\ubuntu_light.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\font_cutive.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\font\\cutive.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brdr.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\drawable\\brdr.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_send_to_user.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\layout\\activity_send_to_user.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\font_armata.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\font\\armata.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\anim_animation.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\anim\\animation.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_account_balance_wallet_24.png.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_account_balance_wallet_24.png"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_users_list.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\layout\\activity_users_list.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_transaction_history_item.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\layout\\transaction_history_item.xml"
+    },
+    {
+        "merged": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_screen.xml.flat",
+        "source": "D:\\grip bb app\\Banking-App-main\\Basic-Banking-App\\app\\src\\main\\res\\layout\\activity_home_screen.xml"
+    }
+]

@@ -1,0 +1,66 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.basicbankingapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:5:5-27:19
+12        android:allowBackup="true"
+12-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.1] C:\Users\Gigabyte\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@drawable/bnk"
+15-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:7:9-37
+16        android:label="WorldBank"
+16-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:8:9-34
+17        android:roundIcon="@drawable/brdr"
+17-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:9:9-43
+18        android:supportsRtl="true"
+18-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.BasicBankingApp" >
+20-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:11:9-53
+21        <activity android:name="com.example.basicbankingapp.UI.SendToUserList" />
+21-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:12:9-64
+21-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:12:19-52
+22        <activity android:name="com.example.basicbankingapp.UI.UsersList" />
+22-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:13:9-50
+22-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:13:19-47
+23        <activity android:name="com.example.basicbankingapp.UI.TransactionHistory" />
+23-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:14:9-59
+23-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:14:19-56
+24        <activity android:name="com.example.basicbankingapp.UI.UserData" />
+24-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:15:9-49
+24-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:15:19-46
+25        <activity android:name="com.example.basicbankingapp.UI.HomeScreen" >
+25-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:16:9-22:20
+25-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:16:19-48
+26            <intent-filter>
+26-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:17:13-21:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:18:17-69
+27-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:18:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:20:17-77
+29-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:20:27-74
+30            </intent-filter>
+31        </activity>
+32
+33        <meta-data
+33-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:24:9-26:57
+34            android:name="preloaded_fonts"
+34-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:25:13-43
+35            android:resource="@array/preloaded_fonts" />
+35-->D:\grip bb app\Banking-App-main\Basic-Banking-App\app\src\main\AndroidManifest.xml:26:13-54
+36    </application>
+37
+38</manifest>
